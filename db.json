@@ -3055,6 +3055,19 @@
       "title": "The Good Family Robinson"
    },
    {
+      "amazon": "https://www.amazon.com/dp/B0CL9BWZQP",
+      "audiobook": true,
+      "author": "Joe Dawson",
+      "batch": 11,
+      "blog": "The Weatherwax Report",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0CL9BWZQP.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": true,
+      "title": "The Goodness Potion and its Side-Effects"
+   },
+   {
       "amazon": "https://www.amazon.com/dp/B0CW31X2X1",
       "audiobook": false,
       "author": "H.L Tinsley",
@@ -3794,19 +3807,6 @@
       "rank": 300,
       "isKU": true,
       "title": "Violence & Vigilance"
-   },
-   {
-      "amazon": "https://www.amazon.com/dp/B0F4PSKNYD",
-      "audiobook": false,
-      "author": "Nikki McCormack",
-      "batch": 11,
-      "blog": "The Weatherwax Report",
-      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0F4PSKNYD.jpg",
-      "isCoverFinalist": false,
-      "status": "none",
-      "rank": 300,
-      "isKU": true,
-      "title": "Wave Dancer"
    },
    {
       "amazon": "https://www.amazon.com/dp/B0BXQ5JKDG",
