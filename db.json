@@ -442,19 +442,6 @@
       "title": "Blade of the Crown"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B0F3VJMLM2",
-      "audiobook": false,
-      "author": "Alexander Lane",
-      "batch": 11,
-      "blog": "SFF Insiders",
-      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0F3VJMLM2.jpg",
-      "isCoverFinalist": false,
-      "status": "none",
-      "rank": 300,
-      "isKU": true,
-      "title": "Blood Point"
-   },
-   {
       "amazon": "https://www.amazon.com/dp/B0FL1DBNMR",
       "audiobook": false,
       "author": "Bart Carroll",
@@ -739,6 +726,19 @@
       "rank": 300,
       "isKU": true,
       "title": "Dark Rising"
+   },
+   {
+      "amazon": "https://www.amazon.com/dp/B0CYWJ48TS",
+      "audiobook": true,
+      "author": "Palmer Pickering",
+      "batch": 11,
+      "blog": "SFF Insiders",
+      "cover": "https://d1nd6ace93qrzh.cloudfront.net/batch-11/B0CYWJ48TS.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": true,
+      "title": "Dark Town"
    },
    {
       "amazon": "https://www.amazon.com/dp/B0FGK5NFPN",
