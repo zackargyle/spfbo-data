@@ -793,6 +793,19 @@
       "title": "Dawn"
    },
    {
+      "amazon": "https://www.amazon.com/dp/B0FDNRZSJ8",
+      "audiobook": false,
+      "author": "Darby Harn",
+      "batch": 11,
+      "blog": "The Fantasy Hive",
+      "cover": "https://d1nd6ace93qrzh.cloudfront.net/batch-11/B0FDNRZSJ8.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": false,
+      "title": "Dead Malls"
+   },
+   {
       "amazon": "https://www.amazon.com/dp/B0FQWF6ZFC",
       "audiobook": false,
       "author": "Susan Maxwell",
