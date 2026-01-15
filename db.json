@@ -13,6 +13,84 @@
       "title": "A Ballad of Vengeance"
    },
    {
+      "amazon": "https://www.amazon.com/dp/B0FTDGK8FG",
+      "audiobook": false,
+      "author": "Jonah Evarts",
+      "batch": 11,
+      "blog": "Fantasy Book Critic",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0FTDGK8FG.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": true,
+      "title": "Reaper's Bend"
+   },
+   {
+      "amazon": "https://www.amazon.com/dp/B0CC6VTWB1",
+      "audiobook": true,
+      "author": "Brendan Noble",
+      "batch": 11,
+      "blog": "Fantasy-Faction",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0DM4MVNVS.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": false,
+      "title": "The Crimson Court"
+   },
+   {
+      "amazon": "https://www.amazon.com/dp/B0F2148YY4",
+      "audiobook": false,
+      "author": "Kaden Love",
+      "batch": 11,
+      "blog": "The Weatherwax Report",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0F2148YY4.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": false,
+      "title": "Toothsucker"
+   },
+   {
+      "amazon": "https://www.amazon.com/dp/B0FR3VNQVN",
+      "audiobook": false,
+      "author": "Michael R. Fletcher",
+      "batch": 11,
+      "blog": "The Weatherwax Report",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0FR3VNQVN.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": true,
+      "title": "Dogged"
+   },
+   {
+      "amazon": "https://www.amazon.com/dp/B0FNX43QMG",
+      "audiobook": false,
+      "author": "Michael Webb",
+      "batch": 11,
+      "blog": "Noah Brisk",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0FNX43QMG.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": true,
+      "title": "Lightbinder"
+   },
+   {
+      "amazon": "https://www.amazon.com/dp/B0CW1KC75T",
+      "audiobook": false,
+      "author": "L.R Schulz",
+      "batch": 11,
+      "blog": "Abel Montero",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0CW1KC75T.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": true,
+      "title": "Soul Cage"
+   },
+   {
       "amazon": "https://www.amazon.com/dp/B0DZ192JHV",
       "audiobook": false,
       "author": "Kenneth Harrell",
@@ -442,6 +520,45 @@
       "title": "Blade of the Crown"
    },
    {
+      "amazon": "https://www.amazon.com/dp/B0GG4NPFLF",
+      "audiobook": false,
+      "author": "Andrew Gillsmith",
+      "batch": 11,
+      "blog": "SFF Insiders",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0GG4NPFLF.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": false,
+      "title": "The Desolation"
+   },
+   {
+      "amazon": "https://www.amazon.com/dp/B0FDNRZSJ8",
+      "audiobook": false,
+      "author": "Darby Harn",
+      "batch": 11,
+      "blog": "The Fantasy Hive",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0FDNRZSJ8.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": false,
+      "title": "Dead Malls"
+   },
+   {
+      "amazon": "https://www.amazon.com/dp/B0CYWJ48TS",
+      "audiobook": true,
+      "author": "Palmer Pickering",
+      "batch": 11,
+      "blog": "SFF Insiders",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0CYWJ48TS.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": true,
+      "title": "Dark Town"
+   },
+   {
       "amazon": "https://www.amazon.com/dp/B0FL1DBNMR",
       "audiobook": false,
       "author": "Bart Carroll",
@@ -728,19 +845,6 @@
       "title": "Dark Rising"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B0CYWJ48TS",
-      "audiobook": true,
-      "author": "Palmer Pickering",
-      "batch": 11,
-      "blog": "SFF Insiders",
-      "cover": "https://d1nd6ace93qrzh.cloudfront.net/batch-11/B0CYWJ48TS.jpg",
-      "isCoverFinalist": false,
-      "status": "none",
-      "rank": 300,
-      "isKU": true,
-      "title": "Dark Town"
-   },
-   {
       "amazon": "https://www.amazon.com/dp/B0FGK5NFPN",
       "audiobook": true,
       "author": "Dap Dahlstrom",
@@ -791,19 +895,6 @@
       "rank": 300,
       "isKU": true,
       "title": "Dawn"
-   },
-   {
-      "amazon": "https://www.amazon.com/dp/B0FDNRZSJ8",
-      "audiobook": false,
-      "author": "Darby Harn",
-      "batch": 11,
-      "blog": "The Fantasy Hive",
-      "cover": "https://d1nd6ace93qrzh.cloudfront.net/batch-11/B0FDNRZSJ8.jpg",
-      "isCoverFinalist": false,
-      "status": "none",
-      "rank": 300,
-      "isKU": false,
-      "title": "Dead Malls"
    },
    {
       "amazon": "https://www.amazon.com/dp/B0FQWF6ZFC",
@@ -882,19 +973,6 @@
       "rank": 300,
       "isKU": true,
       "title": "Die Young"
-   },
-   {
-      "amazon": "https://www.amazon.com/dp/B0FR3VNQVN",
-      "audiobook": false,
-      "author": "Michael R. Fletcher",
-      "batch": 11,
-      "blog": "The Weatherwax Report",
-      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0FR3VNQVN.jpg",
-      "isCoverFinalist": false,
-      "status": "none",
-      "rank": 300,
-      "isKU": true,
-      "title": "Dogged"
    },
    {
       "amazon": "https://www.amazon.com/dp/B085384QD1",
@@ -1569,7 +1647,7 @@
       "isCoverFinalist": false,
       "status": "none",
       "rank": 300,
-      "isKU": false,
+      "isKU": true,
       "title": "Let Sleeping Gods Lie"
    },
    {
@@ -1586,7 +1664,7 @@
       "title": "Liches Get Scritches"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B09GF8V3FZ",
+      "amazon": "https://www.amazon.com/dp/1393662285",
       "audiobook": false,
       "author": "Niranjan",
       "batch": 11,
@@ -1597,19 +1675,6 @@
       "rank": 300,
       "isKU": false,
       "title": "Life Remains"
-   },
-   {
-      "amazon": "https://www.amazon.com/dp/B0FNX43QMG",
-      "audiobook": false,
-      "author": "Michael Webb",
-      "batch": 11,
-      "blog": "Noah Brisk",
-      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0FNX43QMG.jpg",
-      "isCoverFinalist": false,
-      "status": "none",
-      "rank": 300,
-      "isKU": true,
-      "title": "Lightbinder"
    },
    {
       "amazon": "https://www.amazon.com/dp/B0FFP9TDVD",
@@ -2041,19 +2106,6 @@
       "title": "Realms Beyond"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B0FTDGK8FG",
-      "audiobook": false,
-      "author": "Jonah Evarts",
-      "batch": 11,
-      "blog": "Fantasy Book Critic",
-      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0FTDGK8FG.jpg",
-      "isCoverFinalist": false,
-      "status": "none",
-      "rank": 300,
-      "isKU": true,
-      "title": "Reaper's Bend"
-   },
-   {
       "amazon": "https://www.amazon.com/dp/B0G7HDCWJP",
       "audiobook": false,
       "author": "Peter Killey",
@@ -2457,19 +2509,6 @@
       "title": "Sorcery and Stagecraft"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B0CW1KC75T",
-      "audiobook": false,
-      "author": "L.R Schulz",
-      "batch": 11,
-      "blog": "Abel Montero",
-      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0CW1KC75T.jpg",
-      "isCoverFinalist": false,
-      "status": "none",
-      "rank": 300,
-      "isKU": true,
-      "title": "Soul Cage"
-   },
-   {
       "amazon": "https://www.amazon.com/dp/B0CVR2JGSB",
       "audiobook": false,
       "author": "Dax Murray",
@@ -2769,19 +2808,6 @@
       "title": "The Conqueror's Plague"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B0CC6VTWB1",
-      "audiobook": true,
-      "author": "Brendan Noble",
-      "batch": 11,
-      "blog": "Fantasy-Faction",
-      "cover": "https://d1nd6ace93qrzh.cloudfront.net/batch-11/B0CC6VTWB1.jpg",
-      "isCoverFinalist": false,
-      "status": "none",
-      "rank": 300,
-      "isKU": false,
-      "title": "The Crimson Court"
-   },
-   {
       "amazon": "https://www.amazon.com/dp/B0DHL7HCDC",
       "audiobook": false,
       "author": "Phil Parker",
@@ -2819,19 +2845,6 @@
       "rank": 300,
       "isKU": true,
       "title": "The Demon Who Cried Murderer"
-   },
-   {
-      "amazon": "https://www.amazon.com/dp/B0GG4NPFLF",
-      "audiobook": false,
-      "author": "Andrew Gillsmith",
-      "batch": 11,
-      "blog": "SFF Insiders",
-      "cover": "https://d1nd6ace93qrzh.cloudfront.net/batch-11/B0GG4NPFLF.jpg",
-      "isCoverFinalist": false,
-      "status": "none",
-      "rank": 300,
-      "isKU": false,
-      "title": "The Desolation"
    },
    {
       "amazon": "https://www.amazon.com/dp/B0DCR7GMZ8",
@@ -3081,19 +3094,6 @@
       "title": "The Good Family Robinson"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B0CL9BWZQP",
-      "audiobook": true,
-      "author": "Joe Dawson",
-      "batch": 11,
-      "blog": "The Weatherwax Report",
-      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0CL9BWZQP.jpg",
-      "isCoverFinalist": false,
-      "status": "none",
-      "rank": 300,
-      "isKU": true,
-      "title": "The Goodness Potion and its Side-Effects"
-   },
-   {
       "amazon": "https://www.amazon.com/dp/B0CW31X2X1",
       "audiobook": false,
       "author": "H.L Tinsley",
@@ -3107,12 +3107,12 @@
       "title": "The Hallows"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B0G1L7JL6K",
+      "amazon": "https://www.amazon.com/dp/B0FX3JTV3K",
       "audiobook": false,
       "author": "Patrick McNaughton",
       "batch": 11,
       "blog": "FanFiAddict",
-      "cover": "https://d1nd6ace93qrzh.cloudfront.net/batch-11/B0G1L7JL6K.jpg",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0G1L7JL6K.jpg",
       "isCoverFinalist": false,
       "status": "none",
       "rank": 300,
@@ -3744,19 +3744,6 @@
       "title": "To Touch A Silent Fury"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B0F2148YY4",
-      "audiobook": false,
-      "author": "Kaden Love",
-      "batch": 11,
-      "blog": "The Weatherwax Report",
-      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0F2148YY4.jpg",
-      "isCoverFinalist": false,
-      "status": "none",
-      "rank": 300,
-      "isKU": false,
-      "title": "Toothsucker"
-   },
-   {
       "amazon": "https://www.amazon.com/dp/B0FXBKRDW8",
       "audiobook": false,
       "author": "Sage T Greene",
@@ -3833,6 +3820,19 @@
       "rank": 300,
       "isKU": true,
       "title": "Violence & Vigilance"
+   },
+   {
+      "amazon": "https://www.amazon.com/dp/B0CL9BWZQP",
+      "audiobook": true,
+      "author": "Joe Dawson",
+      "batch": 11,
+      "blog": "The Weatherwax Report",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0CL9BWZQ.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": true,
+      "title": "The Goodness Potion and its Side-Effects"
    },
    {
       "amazon": "https://www.amazon.com/dp/B0BXQ5JKDG",
