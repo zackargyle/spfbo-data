@@ -2900,7 +2900,7 @@
    },
    {
       "amazon": "https://www.amazon.com/dp/B0DJFMR8WW",
-      "audiobook": false,
+      "audiobook": true,
       "author": "J.D Rivers",
       "batch": 11,
       "blog": "The Weatherwax Report",
