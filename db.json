@@ -988,12 +988,12 @@
       "title": "Edenlost – The Borderless City"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B0FRSKZ767",
-      "audiobook": true,
+      "amazon": "https://www.amazon.com/dp/B0B6C5Y2GV",
+      "audiobook": false,
       "author": "Matthew Thompson",
       "batch": 11,
       "blog": "Fantasy Book Critic",
-      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0FRSKZ767.jpg",
+      "cover": "https://d1nd6ace93qrzh.cloudfront.net/batch-11/B0B6C5Y2GV.jpg",
       "isCoverFinalist": false,
       "status": "none",
       "rank": 300,
