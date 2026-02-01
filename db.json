@@ -1807,16 +1807,16 @@
       "title": "Oath of Betrayal"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B0CN57H9Y1",
+      "amazon": "https://www.amazon.com/dp/B0CSBV36K2",
       "audiobook": false,
       "author": "L. Cyrus Whelchel",
       "batch": 11,
       "blog": "Fantasy Book Critic",
-      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0CN57H9Y1.jpg",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0CSBV36K2.jpg",
       "isCoverFinalist": false,
       "status": "none",
       "rank": 300,
-      "isKU": false,
+      "isKU": true,
       "title": "Oaths of Life and Death"
    },
    {
