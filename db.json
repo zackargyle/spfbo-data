@@ -2613,16 +2613,16 @@
       "title": "Taking Flight"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B0FBSCMMY5",
+      "amazon": "https://www.amazon.com/dp/B0D9SXFC5R",
       "audiobook": false,
       "author": "Scott Kay",
       "batch": 11,
       "blog": "The Weatherwax Report",
-      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0FBSCMMY5.jpg",
+      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0D9SXFC5R.jpg",
       "isCoverFinalist": false,
       "status": "none",
       "rank": 300,
-      "isKU": false,
+      "isKU": true,
       "title": "Tale of the Four Winds"
    },
    {
