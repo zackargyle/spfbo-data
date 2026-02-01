@@ -3718,16 +3718,16 @@
       "title": "Threadbound"
    },
    {
-      "amazon": "https://www.amazon.com/dp/B0BPYTBT8X",
+      "amazon": "https://www.amazon.com/dp/B0GC3444HV",
       "audiobook": false,
       "author": "Richard Fierce",
       "batch": 11,
       "blog": "The Fantasy Hive",
-      "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0BPYTBT8X.jpg",
+      "cover": "https://d1nd6ace93qrzh.cloudfront.net/batch-11/B0GC3444HV.jpg",
       "isCoverFinalist": false,
       "status": "none",
       "rank": 300,
-      "isKU": true,
+      "isKU": false,
       "title": "Threads of Memory"
    },
    {
