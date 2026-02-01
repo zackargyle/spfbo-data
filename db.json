@@ -2002,6 +2002,19 @@
       "title": "Plaguewalker"
    },
    {
+      "amazon": "https://www.amazon.com/dp/B0GDWSVF3F",
+      "audiobook": false,
+      "author": "Michael Widebrook",
+      "batch": 11,
+      "blog": "The Fantasy Hive",
+      "cover": "https://d1nd6ace93qrzh.cloudfront.net/batch-11/B0GDWSVF3F.jpg",
+      "isCoverFinalist": false,
+      "status": "none",
+      "rank": 300,
+      "isKU": true,
+      "title": "Poisoned Past"
+   },
+   {
       "amazon": "https://www.amazon.com/dp/B0CWVLN12Y",
       "audiobook": true,
       "author": "Erebus Esprit",
