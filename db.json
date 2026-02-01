@@ -53,7 +53,7 @@
    },
    {
       "amazon": "https://www.amazon.com/dp/B09MGD3NMH",
-      "audiobook": false,
+      "audiobook": true,
       "author": "Sara A. Noë",
       "batch": 11,
       "blog": "The Weatherwax Report",
