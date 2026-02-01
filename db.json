@@ -2874,7 +2874,7 @@
    },
    {
       "amazon": "https://www.amazon.com/dp/B0FFPGRRK6",
-      "audiobook": false,
+      "audiobook": true,
       "author": "C.D McKenna",
       "batch": 11,
       "blog": "Fantasy Book Critic",
