@@ -163,7 +163,7 @@
       "blog": "Fantasy Book Critic",
       "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0DJS6ZNHB.jpg",
       "isCoverFinalist": false,
-      "status": "none",
+      "status": "cut",
       "rank": 300,
       "isKU": false,
       "title": "A Sharper, More Lasting Pain"
@@ -267,7 +267,7 @@
       "blog": "Fantasy Book Critic",
       "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0FP3FLPCJ.jpg",
       "isCoverFinalist": false,
-      "status": "none",
+      "status": "cut",
       "rank": 300,
       "isKU": false,
       "title": "Amoran"
@@ -592,7 +592,7 @@
       "blog": "Abel Montero",
       "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0D62GB532.jpg",
       "isCoverFinalist": false,
-      "status": "none",
+      "status": "cut",
       "rank": 300,
       "isKU": true,
       "title": "Choice"
@@ -748,7 +748,7 @@
       "blog": "Abel Montero",
       "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0FGK5NFPN.jpg",
       "isCoverFinalist": false,
-      "status": "none",
+      "status": "cut",
       "rank": 300,
       "isKU": true,
       "title": "Darkness and Blight"
@@ -995,7 +995,7 @@
       "blog": "Fantasy Book Critic",
       "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0B6C5Y2GV.jpg",
       "isCoverFinalist": false,
-      "status": "none",
+      "status": "cut",
       "rank": 300,
       "isKU": true,
       "title": "Empire of Ash and Blood"
@@ -1593,7 +1593,7 @@
       "blog": "Fantasy Book Critic",
       "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B09GF8V3FZ.jpg",
       "isCoverFinalist": false,
-      "status": "none",
+      "status": "cut",
       "rank": 300,
       "isKU": false,
       "title": "Life Remains"
@@ -1905,7 +1905,7 @@
       "blog": "Abel Montero",
       "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0FPBXPBHS.jpg",
       "isCoverFinalist": false,
-      "status": "none",
+      "status": "cut",
       "rank": 300,
       "isKU": false,
       "title": "Original Sin"
@@ -1970,7 +1970,7 @@
       "blog": "Fantasy Book Critic",
       "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0CJNX7HXY.jpg",
       "isCoverFinalist": false,
-      "status": "none",
+      "status": "semi-finalist",
       "rank": 300,
       "isKU": true,
       "title": "Pilgrim"
@@ -2074,7 +2074,7 @@
       "blog": "Abel Montero",
       "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0G7HDCWJP.jpg",
       "isCoverFinalist": false,
-      "status": "none",
+      "status": "cut",
       "rank": 300,
       "isKU": true,
       "title": "Reborn Heroes"
@@ -2100,7 +2100,7 @@
       "blog": "Fantasy Book Critic",
       "cover": "https://spfbo-images.s3.us-west-2.amazonaws.com/B0DRSWR4CH.jpg",
       "isCoverFinalist": false,
-      "status": "none",
+      "status": "cut",
       "rank": 300,
       "isKU": true,
       "title": "Reflections of Lilje Damselfly"
